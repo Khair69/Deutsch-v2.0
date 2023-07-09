@@ -1,0 +1,4 @@
+1	top10	dtoe	words	1	10
+2	mhmd	dtoe	words	40	60
+3	week	dtoe	week	1	7
+4	twodays	dtoe	week	2	3

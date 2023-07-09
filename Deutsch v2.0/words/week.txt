@@ -1,0 +1,7 @@
+1	Montag	Monday
+2	Dienstag	Tuesday
+3	Mittwoch	Wednesday
+4	Donnerstag	Thursday
+5	Freitag	Friday
+6	Samstag	Saturday
+7	Sonntag	Sunday
